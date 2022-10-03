@@ -1,5 +1,5 @@
 # NB: Menggunakan Laravel 8 and Vue 2
-## Disadur dari [tutorial](https://codeplaners.com/how-to-create-laravel-8-vue-js-crud-example/) dengan sedikit penyesuaian
+## Disadur dari [tutorial](https://www.tutsmake.com/laravel-8-vue-js-crud-tutorial-example/) dengan sedikit penyesuaian
 
 
 
